@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Muhammed Veli NAMLI Test blog
-email:
+title: Muhammed Veli NAMLI | Blog
+email: namlimuhammedveli@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a test blog created by Muhammed Veli NAMLI.
+  Dive deep into the world of computer science, Web3, AI, and cybersecurity. Our blog offers a student-friendly perspective, sharing practical knowledge and key insights from the journey of a self-taught developer. Start building your skills today.
 twitter_username: mvelinamli
 github_username: mvelinamli
 minimal_mistakes_skin: default
@@ -57,33 +57,38 @@ plugins:
 
 author:
   name   : "Muhammed Veli NAMLI"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/pp.jpg"
+  bio    : "Computer Science Student | Aspiring Web3, AI, and Cybersecurity Enthusiast | Self-Taught Developer Sharing Knowledge and Insights"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://mvelinamli.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mvelinamli"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://instagram.com/m.velinamli"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/muhammed-veli-namli-9801912b1"
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/mvelinamli"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mvelinamli"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/m.velinamli"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/muhammed-veli-namli-9801912b1"
 
 defaults:
   # _posts
