@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Muhammed Veli NAMLI | Blog
 email: namlimuhammedveli@gmail.com
-url: "https://blog.github.io"
+url: "https://mvelinamli.github.io"
 description: >- # this means to ignore newlines until "baseurl:"
   Dive deep into the world of computer science, Web3, AI, and cybersecurity. Our blog offers a student-friendly perspective, sharing practical knowledge and key insights from the journey of a self-taught developer. Start building your skills today.
 twitter_username: mvelinamli
@@ -59,14 +59,14 @@ plugins:
 author:
   name   : "Muhammed Veli NAMLI"
   avatar : "/assets/images/pp.jpg"
-  bio    : "Computer Science Student | Aspiring Web3, AI, and Cybersecurity Enthusiast | Self-Taught Developer Sharing Knowledge and Insights"
+  bio    : "Computer Science Student, Aspiring Web3, AI, and Cybersecurity Enthusiast, Self-Taught Developer Sharing Knowledge and Insights"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://mvelinamli.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/mvelinamli"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mvelinamli"
@@ -75,7 +75,7 @@ author:
       url: "https://instagram.com/m.velinamli"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/muhammed-veli-namli-9801912b1"
+      url: "https://www.linkedin.com/in/muhammed-veli-namli"
 footer:
   links:
     - label: "Twitter"
@@ -89,7 +89,7 @@ footer:
       url: "https://instagram.com/m.velinamli"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/muhammed-veli-namli-9801912b1"
+      url: "https://www.linkedin.com/in/muhammed-veli-namli"
 
 defaults:
   # _posts
